@@ -1,7 +1,7 @@
 # Visualizing Hue: A Journey Through the Color Spectrum & Cyberpunk Complexity
 
 [![Hue Spectrum Visualization](hue_spectrum.png)](hue_spectrum.png)
-[![Cyberpunk 2077 Scene](cyberpunk_scene.jpg)](cyberpunk_scene.jpg)
+[![Cyberpunk 2077 Scene](cyberpunk_scene.jpg)]
 
 
 This repository explores the concept of hue in physics and computer graphics through Python visualizations. We delve into the mathematical foundations of hue, its conversion to RGB, and its diverse applications, while also touching upon the immense computational complexity behind modern graphics like the Cyberpunk 2077 screenshot.
@@ -113,6 +113,12 @@ This illustrates the sheer scale of software engineering required to create such
 
 * **Circular Perception:** The circular arrangement of hues reflects the human visual system's opponent processing of color.
 * **Color Gamut:** Devices have limited color gamuts, impacting the range of reproducible hues.
+
+
+# Scale of Complexity, To Put Things Into Perspective ... 
+
+ The sheer volume of particles and lines of code required to render a scene like the Cyberpunk 2077 screenshot is immense. If each particle or line of code were a grain of sand, it would be enough to fill the entirety Jones Beach on Long Island, New York.
+
 
 ## Code
 
