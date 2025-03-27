@@ -5,7 +5,9 @@
 
 # Scale of Complexity, To Put Things Into Perspective ... 
 
- The sheer volume of particles and lines of code required to render a scene like the Cyberpunk 2077 screenshot is immense. If each particle or line of code were a grain of sand, it would be enough to fill the entirety Jones Beach on Long Island, New York.
+ The sheer volume of particles and lines of code required to render a scene like the Cyberpunk 2077 screenshot is immense. If each particle or line of code were a grain of sand, it would be enough to fill the entirety Jones Beach on Long Island, New York
+ 
+ **(Roughly 10 * 10,000,000,000 cubic feet of sand, or 10 billion cubic feet.)**
 
 
 
