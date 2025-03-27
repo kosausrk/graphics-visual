@@ -1,12 +1,12 @@
 # Visualizing Hue: A Journey Through the Color Spectrum & Cyberpunk Complexity
 
 
-![Cyberpunk 2077 Scene](cyberpunk_scene.jpg)
+![Cyberpunk 2077 Scene](images/cyberpunk_scene.jpg)
 
 # Scale of Complexity, To Put Things Into Perspective ... 
 
  The sheer volume of particles and lines of code required to render a scene like the Cyberpunk 2077 screenshot is immense. If each particle or line of code were a grain of sand, it would be enough to fill the entirety Jones Beach on Long Island, New York
- 
+
  **(Roughly 10 * 10,000,000,000 cubic feet of sand, or 10 billion cubic feet.)**
 
 
@@ -58,19 +58,19 @@ The core of our visualizations relies on converting hue values (part of the HSV 
 
 ### Circular Spectrum
 
-[![Circular Hue Spectrum](circular_hue.png)](circular_hue.png)
+[![Circular Hue Spectrum](images/circular_hue.png)]
 
 This visualization represents the hue spectrum as a circular gradient, emphasizing its cyclical nature.
 
 ### Wave Spectrum
 
-[![Wave Hue Spectrum](wave_hue.png)](wave_hue.png)
+[![Wave Hue Spectrum](images/wave_hue.png)]
 
 This visualization displays the hue spectrum as a horizontal wave, showcasing the smooth progression of hues.
 
 ### Gradient Spectrum
 
-[![Gradient Hue Spectrum](gradient_hue.png)](gradient_hue.png)
+[![Gradient Hue Spectrum](images/gradient_hue.png)]
 
 This visualization presents the hue spectrum as a linear gradient, a common representation in various applications.
 
