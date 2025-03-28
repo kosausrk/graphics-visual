@@ -58,19 +58,19 @@ The core of our visualizations relies on converting hue values (part of the HSV 
 
 ### Circular Spectrum
 
-[![Circular Hue Spectrum](images/circular_hue.png)]
+![Circular Hue Spectrum](images/circular_hue.png)
 
 This visualization represents the hue spectrum as a circular gradient, emphasizing its cyclical nature.
 
 ### Wave Spectrum
 
-[![Wave Hue Spectrum](images/wave_hue.png)]
+![Wave Hue Spectrum](images/wave_hue.png)
 
 This visualization displays the hue spectrum as a horizontal wave, showcasing the smooth progression of hues.
 
 ### Gradient Spectrum
 
-[![Gradient Hue Spectrum](images/gradient_hue.png)]
+![Gradient Hue Spectrum](images/gradient_hue.png)
 
 This visualization presents the hue spectrum as a linear gradient, a common representation in various applications.
 
