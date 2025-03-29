@@ -114,7 +114,7 @@ Modern game engines like those used for Cyberpunk 2077 can contain millions of l
 * Game Logic: 1,000,000+ LOC
 * Asset Pipeline, Physics, AI, Tools: Hundreds of thousands of LOC each.
 
-This illustrates the sheer scale of software engineering required to create such immersive visuals.
+# This illustrates the sheer scale of software engineering required to create such immersive visuals.
 
 ## Neat Facts
 
